@@ -51,7 +51,7 @@ bash hound.sh
 ```
 
 ### Video Demo
-[![Hound Demo](https://img.youtube.com/vi/IiJRyVmITgI/0.jpg)](https://www.youtube.com/watch?v=IiJRyVmITgI)
+[![Hound Demo](https://img.youtube.com/vi/IiJRyVmITgI/0.jpg)](https://youtu.be/t7wm02duUwc)
 
 ### For More Video subcribe <a href="https://www.youtube.com/channel/UCav2OjhAKzTMZXiOgSm6bAg">Tech Learners YouTube Channel</a>
 <p>Hound is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
